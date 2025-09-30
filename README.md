@@ -1,4 +1,5 @@
 Hi there 👋 I'm Sonia Oguntuase
+
 💻 Aspiring Cybersecurity Analyst | Learning in Public
 I’m starting my journey into cybersecurity and using this GitHub to document my progress, hands-on labs, and class projects.
 
